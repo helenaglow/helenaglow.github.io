@@ -26,7 +26,7 @@ function Home() {
             <img
               src={flowerGroup}
               alt="icon"
-              className="w-fulld:w-max md:h-max lg:w-108 lg:h-108"
+              className="w-full md:w-max md:h-max lg:w-108 lg:h-108"
             />
           </div>
         </div>

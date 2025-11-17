@@ -1,5 +1,5 @@
 import { useState } from "react";
-import reactLogo from "./assets/flower.svg";
+import flower from "./assets/flower.svg";
 import Home from "./pages/Home";
 
 function App() {
@@ -7,7 +7,12 @@ function App() {
 
   return (
     <div className="w-screen h-screen bg-white">
-      <Home />
+      <div className="w-full sticky top-0 overflow-hidden h-24 flex items-center px-16 md:px-32">
+        <img src={flower} alt="icon" className="w-10 h-10" />
+      </div>
+      <div className="overflow-auto">
+        <Home />
+      </div>
     </div>
   );
 }
