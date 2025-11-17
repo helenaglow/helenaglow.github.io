@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/css2?family=Instrument+Serif&display=swap");
+@import "tailwindcss";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@theme {
+  --font-instrument: "Instrument Serif", serif;
+
+  --color-orange: #ba6830;
+  --color-dark-green: #284239;
+  --color-sage: #809076;
+  --color-grey: #545454;
+}
+
+@layer components {
+  .text-main {
+    @apply text-sm md:text-base text-grey;
+  }
+
+  .text-h1 {
+    @apply font-instrument text-5xl md:text-7xl;
+  }
+}
