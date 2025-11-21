@@ -11,4 +11,4 @@ My name is Helena and I am a 4th year CS student at UofT. Overall, I am interest
 - `Github Pages` (_deploying_)
 
 ## Bugs...ew
-If you found a bug in my website and decided to find my repo to complain, thank you! Feel free to write an issue or just let me know.
+If you found a bug in my website and decided to find my repo to help a friend out, thank you! Feel free to write an issue or just let me know.
