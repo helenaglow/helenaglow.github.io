@@ -4,7 +4,6 @@
 My name is Helena and I am a 4th year CS student at UofT. Overall, I am interested in HCI+AI and I am currently working on putting all my projects, designs, photos and hobbies in one place.
 
 ## Tech Stack
-**My Swamp** isn't too crazy of a website. It is a static site built with: 
 - `React.js`
 - `Vite` (_building_)
 - `TailwindCSS` (_styling_)
